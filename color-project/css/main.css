@@ -2,4 +2,11 @@
 
 .red {color: red;}
 .orange {color: orange}
+.yellow {color:yellow}
+.green {color:green}
+.blue {color:blue}
+.violet {color:violet}
+.black {color:black}
+.white {color:grey}
 #theory {background-color:#D8C792}
+#models {background:linear-gradient(to right, rgba(255,189,223,1) 0%, rgba(255,189,223,1) 21%, rgba(254,52,156,1) 100%);}

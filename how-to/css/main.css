@@ -1,0 +1,14 @@
+/* CSS Document */
+
+h1 {border-style:groove; border-color:#1879D7;border-width:20px;text-align:center;}
+ol li {
+    background:rgb(255,200,26)
+	;
+    padding: 10px;
+    margin-left: 30px;}
+	ol {
+    background:rgb(232,102,8);
+    padding: 5px;
+}
+li {color:rgb(0,1,116);}
+h2 {color:rgb(0,1,116);}

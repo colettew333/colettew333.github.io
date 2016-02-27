@@ -1,0 +1,9 @@
+/* CSS Document */
+
+footer { border-top:3px solid #6675E8; clear: both; padding-top: 1em;
+	
+}
+
+footer p {
+	font-size: 12px; color: gray; margin-left: 20%;
+}

@@ -1,0 +1,13 @@
+/* CSS Document */
+
+.one {
+	margin-left: 100px;
+	margin-right: 100px;
+	background:red;
+	}
+	
+.two {padding:100px;background:blue;}
+
+.three {border:6px double green;}
+ .four {width:49%;padding:1%;float:left;background:yellow;}
+ .five {width:49%;padding:1%;float:left;background:green;}

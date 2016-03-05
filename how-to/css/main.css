@@ -1,6 +1,6 @@
 /* CSS Document */
 
-h1 {border-style:groove; border-color:#1879D7;border-width:20px;text-align:center;}
+h1 {border-style:groove; border-color:#1879D7;border-width:20px;text-align:center;margin-left:500px; margin-right:500px}
 ol li {
     background:rgb(255,200,26)
 	;
@@ -12,3 +12,4 @@ ol li {
 }
 li {color:rgb(0,1,116);}
 h2 {color:rgb(0,1,116);}
+h1, h3, i {color:rgb(0,1,116);}

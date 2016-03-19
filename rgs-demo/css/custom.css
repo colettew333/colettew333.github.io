@@ -45,3 +45,11 @@ header h2 {font-size:.75em;
 	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;}
 	
 h2 {font-size:2em;}
+
+p {line-height:1.2em; margin-bottom: 1em;}
+
+ul {list-style-type:none;}
+
+li {padding:1em; 
+	border-bottom:1px solid #FFF;}
+	
